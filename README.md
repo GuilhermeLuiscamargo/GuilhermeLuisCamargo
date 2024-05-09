@@ -1,42 +1,46 @@
-# Eai prazer! Meu nome é Guilherme🤘
-
-#### Sou um aspirante a Desenvolvedor web da uma olhada nos meus Projetos👊
-
-<a href="https://guilhermeluiscamargo.github.io/Meu-Portifolio/">
-<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
-
-## Contato🤙
-
-<div background-color="#2e2e2e">
-  sadiobnfoisdnbfnosdnfnsdfsdf
-<a cursor="pointer" target="_blank" href="https://git.io/streak-stats">
-<img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="">
-<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-<a href="">
-<img alt="Discord"src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="">
-<img alt="Linkedin"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
-## GitHub stats🔥
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header&reversal=true">
 
 <div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeLuiscamargo&theme=dark&border_radius=20&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&sideLabels=FFFFFF&dates=6A6867&sideNums=EBEBEB&fire=EBEBEB&ring=606060&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeLuiscamargo&theme=dark&count_private=true&show_icons=true&icon_color=2e2e2e&)](https://github.com/anuraghazra&theme=dark/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLuiscamargo&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<h1 align="center">Eai prazer! Meu nome é <strong>Guilherme</strong>🌌</h1>
+<div align="center">
+<h3>Sou um aspirante a Desenvolvedor web da uma olhada nos meus Projetos👾</h3>
+<br>
+<a  align="center" target="_blank" href="https://guilhermeluiscamargo.github.io/Meu-Portifolio/">
+<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
+<br><br>
+</div>
+
+<div align=center>
+<h1>Contato🛰️</h1>
+<br>
+<a  target="_blank" href="mailto:guilhermeluiscamargoneto@gmail.com">
+<img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?1=pt_BR&phone=5544984017260">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/guilherme-luis-camargo-neto-49a40b2b1">
+<img alt="Linkedin"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div>
+<br><br>
+<div align=center>
+
+## GitHub Stats☄️
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme%20Luis%20&hide_border=true&border_radius=20&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=1000&card_height=200&background=87CEFA&sideLabels=4169E1&stroke=FFF&ring=1E90FF&fire=6495ED&currStreakNum=FFF&sideNums=FFF&currStreakLabel=4169E1&dates=FFF)](https://git.io/streak-stats)
+
+<div>
+<img  height="170px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLuiscamargo&count_private=true&show_icons=true&bg_color=87CEFA&text_color=FFF&icon_color=1E90FF&title_color=6495ED&hide_border=false">
+<img  height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLuiscamargo&layout=compact&title_color=6495ED&bg_color=87CEFA&text_color=FFF&hide_border=false">
+</div>
+</div>
+<br>
+<div align=center>
 
 ## 🖥️Tecnologias que utilizo
 
-<div>
 <img alt=" HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JavaScript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -51,7 +55,9 @@
 <img alt="Visual estudio"src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-## 🧠Tecnologias que tenho interesse
+<<div align=center>
+
+## 🧙🏽Tecnologias que tenho interesse
 
 <div>
 <img alt="ChatGPT"src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
@@ -71,4 +77,8 @@
 <img alt="PowerShell"src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 </div>
 
-### Obrigado por visitar meu Perfil🙏
+### Obrigado por visitar meu Perfil🛸
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&reversal=true">
