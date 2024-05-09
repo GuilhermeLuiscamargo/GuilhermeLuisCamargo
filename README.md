@@ -7,7 +7,8 @@
 
 ## Contato🤙
 
-<div>
+<div background-color="#2e2e2e">
+  sadiobnfoisdnbfnosdnfnsdfsdf
 <a cursor="pointer" target="_blank" href="https://git.io/streak-stats">
 <img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
