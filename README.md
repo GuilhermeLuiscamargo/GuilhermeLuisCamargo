@@ -29,7 +29,7 @@
 
 ## GitHub Stats☄️
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme%20Luis%20&hide_border=true&border_radius=20&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=1000&card_height=200&background=87CEFA&sideLabels=4169E1&stroke=FFF&ring=1E90FF&fire=6495ED&currStreakNum=FFF&sideNums=FFF&currStreakLabel=4169E1&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeLuiscamargo&hide_border=true&border_radius=20&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_width=1000&card_height=200&background=87CEFA&sideLabels=4169E1&stroke=FFF&ring=1E90FF&fire=6495ED&currStreakNum=FFF&sideNums=FFF&currStreakLabel=4169E1&dates=FFF)](https://git.io/streak-stats)
 
 <div>
 <img  height="170px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLuiscamargo&count_private=true&show_icons=true&bg_color=87CEFA&text_color=FFF&icon_color=1E90FF&title_color=6495ED&hide_border=false">
