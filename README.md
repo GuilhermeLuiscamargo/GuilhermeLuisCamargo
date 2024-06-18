@@ -5,7 +5,7 @@
 <div align="center">
 <h3>Sou um aspirante a Desenvolvedor web da uma olhada nos meus Projetos👾</h3>
 <br>
-<a  align="center" target="_blank" href="https://guilhermeluiscamargo.github.io/Meu-Portifolio/">
+<a  align="center" target="blank" href="https://guilhermeluiscamargo.github.io/Meu-Portifolio/">
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 <br><br>
